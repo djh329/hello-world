@@ -14,6 +14,7 @@
  * Ubuntu/Linux
  * Bash Shells, Command Line Programming
  * Intro to GitHub
+ 
  ### Module 2
  * Intro to C++: Static typing, header vs. source files, pointers
  * Intro to ROS: Node, Node Handles, Topics, Services and Params
@@ -24,4 +25,5 @@
  * Node Framework and Teleop Controles
  * NodeHandlers and RosParams- Data Driven
  * gtest Framework and SOLID Testing Principle
- ### Module 4 hjgskgjdvfsdaihkvjh
+
+ ### Module 4
