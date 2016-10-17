@@ -9,7 +9,7 @@
   * Using Docker to enable the Mac OS with unix code capabilites
 
 
- ## Training Modules
+## Training Modules
 ### Module 1
 * Ubuntu/Linux
 * Bash Shells, Command Line Programming
@@ -20,10 +20,10 @@
 * Intro to ROS: Node, Node Handles, Topics, Services and Params
 * Creating classes, objects, and launch files
 
- ##Training Modules (cont.)
+##Training Modules (cont.)
 ### Module 3
 * Node Framework and Teleop Controles
 * NodeHandlers and RosParams- Data Driven
 * gtest Framework and SOLID Testing Principle
 
- ### Module 4
+### Module 4
